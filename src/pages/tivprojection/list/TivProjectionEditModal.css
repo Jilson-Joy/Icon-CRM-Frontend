@@ -1,0 +1,25 @@
+.TivProjectionEditModal_header{
+    text-align: center;
+}
+.TivProjectionEditModal_section1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+}
+.TivProjectionEditModal_section_A1{
+    flex-grow: 1;
+}
+.TivProjectionEditModal_buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.TivProjectionEditModal_btn{
+   color: white;
+   font-weight: 600;
+   width: 200px;
+    background-color: #374151;
+}

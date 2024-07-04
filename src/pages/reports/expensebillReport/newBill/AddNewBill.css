@@ -1,0 +1,74 @@
+.AddNewBill_container {
+  margin: 10px;
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+.AddNewBill_row1,
+.AddNewBill_row2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 16px;
+}
+.AddNewBill_row1_Bill_1,
+.AddNewBill_row1_Bill_2 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.AddNewBill_row1_Bill_1 input,
+.AddNewBill_row1_Bill_2 input {
+  border-radius: 10px;
+  background-color: azure;
+}
+.AddNewBill_row1_Bill_1_s{
+    display: flex;
+    flex-direction: column;
+    flex: 1
+}
+.AddNewBill_row1_Bill_1_s input{
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.AddNewBill_row3 {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.AddNewBill_row3 button {
+  display: flex;
+  color: #ffffff;
+  font-weight: 600;
+    background-color: #188ae4;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.AddNewBill_total{
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+}
+.AddNewBill_total p{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.AddNewBill_btn{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.AddNewBill_btn button{
+    display: flex;
+    gap: 5px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #ffffff;
+    font-weight: 600;
+}

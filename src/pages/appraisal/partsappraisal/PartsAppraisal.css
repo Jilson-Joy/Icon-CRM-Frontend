@@ -1,0 +1,23 @@
+.row_2_parts{
+    font-weight: bold;
+    background-color: #CAF4FF;
+    font-size: 15px;
+    color: black;
+}
+
+
+.row_3_parts{
+    background-color: #FFF2D7;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.total_row_parts{
+    background-color: #FDE49E;
+}
+
+.appraisal_row_1{
+    font-weight: bold;
+    font-size: 18px;
+    color: red;
+}

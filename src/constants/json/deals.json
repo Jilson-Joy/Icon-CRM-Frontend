@@ -1,0 +1,46 @@
+{
+  "deals": [
+    {
+      "id": "a97e",
+      "prospect": "malavika",
+      "deal": "malavika3",
+      "mc": "2",
+      "dealtype": "Repeated sale with exchange",
+      "date": "2024-04-17",
+      "dealSuggestedBy": "Superiors",
+      "name": "",
+      "phnum": "+91",
+      "pan": "",
+      "customerseg": "Semi Corporate",
+      "machine": "Municipality for industrial applications"
+    },
+    {
+      "id": "7fd9",
+      "prospect": "riya",
+      "deal": "riya1",
+      "mc": "2",
+      "dealtype": "Repeated sale with exchange",
+      "date": "2024-04-17",
+      "dealSuggestedBy": "Superiors",
+      "name": "",
+      "phnum": "+91",
+      "pan": "",
+      "customerseg": "Semi Corporate",
+      "machine": "Mining"
+    },
+    {
+      "id": "ed5f",
+      "prospect": "MyTRestr",
+      "deal": "MyTRestr2",
+      "mc": "SY20C",
+      "dealtype": "Repeated sale",
+      "date": "2024-04-24",
+      "dealSuggestedBy": "Superiors",
+      "name": "",
+      "phnum": "+91",
+      "pan": "",
+      "customerseg": "Small Fleet Owner (Less than 3 Machines)",
+      "machine": "Landscaping/forestry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+.tiv_report_form_container{
+    margin: 10px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 16px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+.tiv_report_table{
+border-collapse: collapse;
+width: 100%;
+}
+
+
+.tiv_accuracy_report_form_div{
+  display: flex;
+  flex-direction: column;
+
+  gap: 10px;
+
+}
+
+.tiv_accuracy_report_form{
+  margin-top: 10px;
+}
+
+.tiv_accuracy_table{
+margin-top: 20px;
+}
+.SalesEngineersSelect{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

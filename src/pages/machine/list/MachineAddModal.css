@@ -1,0 +1,148 @@
+/* .AddMachine_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .AddMachine_form {
+    border: 3px solid #374151;
+    border-radius: 20px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    margin: 40px 10px 0 10px;
+  }
+  
+  @media (min-width: 769px) {
+    .AddMachine_form {
+      margin: 10px auto; 
+    }
+  }
+  .AddMachine_header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .AddMachine_header h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #374151;
+  }
+  .AddMachine_inputFiled {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+  }
+  
+  .AddMachine_name_section,
+  .AddMachine_price_section,
+  .AddMachine_code_section,
+  .AddMachine_modelNo_section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .AddMachine_name_section input,
+  .AddMachine_price_section input,
+  .AddMachine_code_section input,
+  .AddMachine_modelNo_section input,
+  .AddMachine_OEM_section select, 
+  .AddMachine_Tonnage_section select,
+  .AddMachine_segment_section select{
+  
+   border-radius: 5px;
+  }
+  .AddMachine_selectFiled {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .AddMachine_OEM_section,
+  .AddMachine_Tonnage_section,
+  .AddMachine_segment_section,
+  .AddMachine_modelNo_section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .AddMachine_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .AddMachine_button button {
+    background-color: #374151;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 200px;
+  }
+   */
+  .AddMachine_header{
+    text-align: center;
+  }
+  .errormsg {
+    font-size: small;
+    font-weight: 600;
+    color: red;
+  }
+  .error-borderAddMachine {
+    border: 1px solid red !important;
+    border-radius: 5px;
+    height: 40px;
+  }
+  
+  /* .AddMachine_OEM_section select{
+    width: 100%;
+  }
+
+  .AddMachine_Tonnage_section select{
+    width: 100%;
+  }
+
+  .AddMachine_segment_section select{
+    width: 100%;
+  } */
+  .AddMachine_section1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .AddMachine_section_a1{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  .AddMachine_section_a2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    flex-grow: 1; 
+  }
+  .AddMachine_section_a2 select{
+    width: 100%;
+  }
+  .AddMachine_section_buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  .AddMachine_section_button1{
+    color: white;
+    background-color: #374151;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }

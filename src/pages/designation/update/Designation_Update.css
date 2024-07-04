@@ -1,0 +1,29 @@
+/* .update_designation_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.update_designation_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+} */
+
+.Edit_Designation_header{
+    text-align: center;
+}
+.Edit_Designation_buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+.Edit_Designation_btn{
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+}

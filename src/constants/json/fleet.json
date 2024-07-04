@@ -1,0 +1,91 @@
+{
+    "fleetData": [
+      {
+        "segment":"seg1",
+        "date": "2024-05-01",
+        "model": "g24",
+        "NoMachine": "3",
+        "district": "Kasaragod",
+        "oem": "med",
+        "territoryu":"wew",
+        "contact":"79795466474",
+        "customerName":"Sam",
+        "tonnage":"tonnage1",
+        "financeierWise":"500"
+      },
+      {
+        "segment":"seg2",
+        "date": "2024-05-02",
+        "model": "g192",
+        "NoMachine": "1",
+        "district": "palakkad",
+        "oem": "min",
+        "territoryu":"qw",
+        "contact":"97866474",
+        "customerName":"fas",
+        "tonnage":"tonnage2",
+        "financeierWise":"200"
+      }, {
+        "segment":"seg3",
+        "date": "2024-05-03",
+        "model": "g16",
+        "NoMachine": "4",
+        "district": "thrissur",
+        "oem": "min",
+        "territoryu":"te",
+        "contact":"97686754",
+        "customerName":"jil",
+        "tonnage":"tonnage3",
+        "financeierWise":"200"
+      }, {
+        "segment":"seg4",
+        "date": "2024-05-04",
+        "model": "g17",
+        "NoMachine": "2",
+        "district": "kannur",
+        "oem": "med",
+        "territoryu":"te",
+        "contact":"3535232",
+        "customerName":"lin",
+        "tonnage":"tonnage4",
+        "financeierWise":"200"
+      }, {
+        "segment":"seg5",
+        "date": "2024-05-05",
+        "model": "g119",
+        "NoMachine": "2",
+        "district": "wayanad",
+        "oem": "min",
+        "territoryu":"te",
+        "contact":"764544",
+        "customerName":"tom",
+        "tonnage":"tonnage5",
+        "financeierWise":"300"
+      }, {
+        "segment":"seg6",
+        "date": "2024-05-06",
+        "model": "g192",
+        "NoMachine": "4",
+        "district": "ernakulam",
+        "oem": "med",
+        "territoryu":"zfd",
+        "contact":"23445",
+        "customerName":"joy",
+        "tonnage":"tonnage6",
+        "financeierWise":"250"
+      }, {
+        "segment":"seg7",
+        "date": "2024-05-07",
+        "model": "g134",
+        "NoMachine": "5",
+        "district": "idukki",
+        "oem": "min",
+        "territoryu":"fs",
+        "contact":"9768675",
+        "customerName":"qwe",
+        "tonnage":"tonnage6",
+        "financeierWise":"900"
+      }
+    ]
+  }
+  

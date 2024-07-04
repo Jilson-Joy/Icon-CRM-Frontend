@@ -1,0 +1,28 @@
+{
+  "add_designation": [
+    {
+      "id": "1dae",
+      "code": "789",
+      "name": "rizz",
+      "Department": "Department 1"
+    },
+    {
+      "id": "5463",
+      "code": "007",
+      "name": "jilson",
+      "Department": "Department 2"
+    },
+    {
+      "id": "7cb2",
+      "code": "98",
+      "name": "joy",
+      "Department": "Department 3"
+    },
+    {
+      "id": "cf06",
+      "code": "hfhfhf",
+      "name": "jilson",
+      "Department": "Department 2"
+    }
+  ]
+}

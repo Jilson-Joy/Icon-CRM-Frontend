@@ -1,0 +1,28 @@
+{
+    "productData":[
+        {
+            "id":1,
+            "modelwise":"modelwise1",
+            "segment":"segment1",
+            "tonnage":"tonnage1"
+        },
+        {
+            "id":2,
+            "modelwise":"modelwise2",
+            "segment":"segment2",
+            "tonnage":"tonnage2"
+        },
+        {
+            "id":3,
+            "modelwise":"modelwise3",
+            "segment":"segment3",
+            "tonnage":"tonnage3"
+        },
+        {
+            "id":3,
+            "modelwise":"modelwise3",
+            "segment":"segment3",
+            "tonnage":"tonnage3"
+        }
+    ]
+}

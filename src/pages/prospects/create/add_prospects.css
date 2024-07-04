@@ -1,0 +1,30 @@
+.block {
+  margin-bottom: 10px;
+}
+
+.input-field {
+  width: 100%;
+}
+
+.file-upload {
+  margin-bottom: 10px;
+}
+
+.form-container {
+  border: 3px solid #1f2937;
+  padding: 10px;
+  width: 100%; 
+}
+
+@media (min-width: 768px) {
+  .form-container {
+    /* max-width: 768px;  */
+    /* margin: 0 auto;  */
+  }
+}
+
+@media (max-width: 767px) {
+  .form-container {
+    padding: 10px; 
+  }
+}

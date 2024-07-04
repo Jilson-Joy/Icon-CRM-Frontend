@@ -1,0 +1,96 @@
+.prospect_report_form_container {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 3px solid #374151;
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .prospect_report_form_header{
+    font-size: 30px;
+    font-weight: 600;
+    color: #374151;
+  }
+  label{
+    font-weight: 600;
+  }
+.prospect_report_form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* border: 3px solid #374151; */
+  /* border-radius: 10px; */
+  padding: 20px 0 10px 0;
+}
+
+.prospect_report_form_input {
+  display: flex;
+  align-items: center;
+  flex-wrap:wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+.prospect_report_form_input_select {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.prospect_report_form_input_select input{
+    border-radius: 10px;
+    width: 100%;
+
+}
+.prospect_report_form_input_select select{
+    border-radius: 10px;
+    width: 100%;
+
+}
+@media (min-width: 769px) {
+  .prospect_report_form_container {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .prospect_report_form_input_select input{
+    border-radius: 10px;
+}
+  .prospect_report_form_input_select select{
+    border-radius: 10px;
+
+  }
+}
+
+/* table */
+.prospect_report_table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+  table-layout: fixed;
+}
+
+.prospect_report_table th,
+.prospect_report_table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.prospect_report_table th {
+  background-color: #f2f2f2;
+}
+.fleet_link{
+  color: rgb(247, 24, 24); /* Change the text color */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold; /* Make text bold */
+  font-size: 16px; /* Set font size */
+  padding: 5px 10px; /* Add padding */
+  border: 1px solid rgb(0, 0, 0); /* Add border */
+  border-radius: 5px; /* Add border radius */
+  background-color: rgb(255, 255, 255); /* Add background color */
+  
+}
+

@@ -1,0 +1,58 @@
+
+
+
+
+/* h2{
+    color:#1f2937;
+    font-size: 1.875rem;
+}
+
+
+
+.butt_add{
+    background-color: #1f2937;
+}
+
+.form-modaldesign{
+    border: 3px solid #1f2937;
+    border-radius: 10px;
+    padding: 12px;
+}
+.dealmodalbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+} */
+
+.AddDeals_Header{
+    text-align: center;
+}
+.AddDeals_section1{
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+}
+.AddDeals_btn{
+ display: flex;
+ align-items: center;
+ justify-content: center;   
+ gap: 10px;
+ margin-top: 20px;
+}
+.AddDeals_btn1{
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+}
+.AddDeals_section_a1{
+    margin-top: 5px;
+}
+.AddDeals_section_deal{
+    display: flex;
+    flex-direction: column;
+}
+.AddDeals_section_deal input{
+    border-radius: 10px;
+}

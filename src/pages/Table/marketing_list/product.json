@@ -1,0 +1,22 @@
+{
+  "product_detials": [
+    {
+      "id": "b7dc",
+      "marketingActivity": "Akhil",
+      "proposedDate": "2024-04-19",
+      "proposedAmount": "$5000",
+      "disursableAmount": "$400",
+      "engineerName": "Akhil Ansari",
+      "remarks": "dqwdewduewyfilhvfdm"
+    },
+    {
+      "id": "4cf0",
+      "marketingActivity": "Rizwana",
+      "proposedDate": "2024-04-24",
+      "proposedAmount": "$450",
+      "disursableAmount": "$793",
+      "engineerName": "Rizz",
+      "remarks": "3EW6TWER4U46Wabcd"
+    }
+  ]
+}

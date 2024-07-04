@@ -1,0 +1,58 @@
+.AddSegment_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 50vh; */
+}
+.AddSegment_form {
+  /* border: 3px solid #374151; */
+  border-radius: 20px;
+  /* padding: 16px; */
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  /* margin: 40px 10px 0 10px; */
+}
+
+
+.AddSegment_header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.AddSegment_header h2 {
+  font-size: 30px;
+  font-weight: 600;
+  color: #374151;
+}
+.AddSegment_name, .AddSegment_code {
+  display: flex;
+  flex-direction: column;
+}
+.AddSegment_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.AddSegment_button button {
+  background-color: #374151;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 10px;
+}
+/* error */
+.errormsg {
+  font-size: small;
+  font-weight: 600;
+  color: red;
+}
+.error-borderAddSegment {
+  border: 1px solid red !important;
+  border-radius: 5px;
+  height: 40px;
+}

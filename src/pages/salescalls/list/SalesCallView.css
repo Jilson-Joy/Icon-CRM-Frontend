@@ -1,0 +1,28 @@
+.SalesCallView{
+    margin: 16px;
+    border: 3px solid #374151;
+    border-radius: 20px;
+    padding: 10px;
+}
+.Salescalltable_back_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SalesCallView_title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SalesCallView_title h1{
+  color: #374151;
+  font-size: 35px;
+  font-weight: 600;
+}
+.Salescalltable_back{
+    background-color: #374151;
+    color: white    ;
+    width: 200px;
+    padding: 15px 30px;
+    border-radius: 10px;
+}

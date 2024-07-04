@@ -1,0 +1,48 @@
+.Mcsales_header{
+    text-align: center;
+}
+
+.mcSales_section1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.mcSales_section_A1{
+    flex-grow: 1;
+}
+
+.mcsales{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin: 10px; 
+}
+
+.mcsales_form{
+    border-radius: 25px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px;
+    border: 3px solid #374151;
+    width: 80%;
+}
+
+.mcsales_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    gap: 10px;
+    margin-top: 20px;
+}
+
+
+.mcsales_btn1{
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+}

@@ -1,0 +1,68 @@
+.Emptable{
+    padding: 50px;
+  
+}
+
+
+.emp_table{
+    border: 3px solid #1f2937;
+    padding: 12px; 
+}
+.emptable_head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.emptable_head h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.emptable_button{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 15px;
+}
+
+.emptable_addbutt{
+    background-color:  #374151;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.emp_table_btnsection {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: row;
+    gap: 5px;
+}
+
+.emp_search{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.emp_search span{
+    border: 1px solid black;
+  padding: 8px;
+  color: black;
+  /* border-right: 0; */
+  border-radius: 10px 0px 0px 10px;
+}
+
+.emp_search input{
+    border-left: 0;
+  border-radius: 0px 10px 10px 0px;
+  color: black;
+}
+
+.top_div{
+    background-color: #dcdcdc;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}

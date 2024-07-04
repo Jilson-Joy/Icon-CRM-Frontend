@@ -1,0 +1,21 @@
+.deals_table{
+    /* border: 3px solid #1f2937; */
+    padding: 6px;
+}
+
+.tab_deal{
+    padding: 50px;
+}
+
+
+
+/* .butt_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.btn-outline {
+    width: auto;
+    float: right;
+  }

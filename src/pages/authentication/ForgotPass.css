@@ -1,0 +1,77 @@
+
+@media (min-width:769px) {
+    .Verify_container{
+        margin-top: 250px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media  (max-width:768px) {
+    .Verify_container{
+       display: flex;
+       flex-direction: column;
+       margin: 16px;
+
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    .Verify_container{
+        margin: 10px;
+    }
+}
+
+/* .Verify_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.form_text{
+    text-align: center;
+}
+.form_input_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    padding:10px;
+}
+.form_input_box input{
+    border: 1px solid #ccc;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    
+}
+.form_input_box input:hover{
+    border-color: #1d42e9; 
+    /* background-color: #f5f5f5;  */
+}
+.form_submit_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+.form_link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 5px;
+   padding: 10px;
+}
+.form_link a{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color: blue;
+}
+.error-border1 {
+ 
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 44px;
+    padding: 0 ;
+  }

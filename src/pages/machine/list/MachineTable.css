@@ -1,0 +1,65 @@
+/* @media (min-width: 769px) {
+    .MachineTable_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+  } */
+
+.MachineTable {
+  margin: 16px;
+  border: 3px solid #374151;
+  border-radius: 10px;
+  padding: 10px;
+}
+.MachineTable_header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.MachineTable_header h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+.MachineTable_Addbtn {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  gap: 10px;
+  padding: 10px;
+  background-color: gainsboro;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border: none;
+  border-radius: 10px;
+}
+.MachineTable_filter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MachineTable_filter span {
+  border: 1px solid;
+  padding: 8px;
+  /* border-right: 0; */
+  border-radius: 10px 0px 0px 10px;
+}
+.MachineTable_filter input {
+  border-left: 0;
+  border-radius: 0px 10px 10px 0px;
+}
+.MachineTable_Add {
+  background-color: #374151;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+}
+.MachineTable_btnsection {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-direction: row;
+  gap: 5px;
+}

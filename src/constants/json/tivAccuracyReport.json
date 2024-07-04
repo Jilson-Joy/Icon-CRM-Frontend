@@ -1,0 +1,44 @@
+{
+    "tivAccuarcy": [
+      {
+        "id": "1",
+        "salesengineer":"rizwana",
+        "customername":"riz1",
+        "projectedtiv":"sany",
+        "projectedoem":"sany",
+        "totalaccuracy":"",
+        "score":""
+
+      },
+      {
+        "id": "2",
+        "salesengineer":"rizwana",
+        "customername":"riz1",
+        "projectedtiv":"sany",
+        "projectedoem":"sany",
+        "totalaccuracy":"",
+        "score":""
+
+      },
+      {
+        "id": "3",
+        "salesengineer":"Dwadhasi",
+        "customername":"dwa1",
+        "projectedtiv":"hunda",
+        "projectedoem":"hunda",
+        "totalaccuracy":"",
+        "score":""
+
+      },
+      {
+        "id": "4",
+        "salesengineer":"Dwadhasi",
+        "customername":"dwa1",
+        "projectedtiv":"hunda",
+        "projectedoem":"hunda",
+        "totalaccuracy":"",
+        "score":""
+
+      }
+    ]
+  }

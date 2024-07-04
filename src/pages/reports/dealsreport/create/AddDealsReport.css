@@ -1,0 +1,73 @@
+.deals_report_form_container {
+    margin: 10px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 16px;
+  }
+
+  h2{
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .deal_report_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 3px solid #374151; */
+    /* border-radius: 10px; */
+    padding: 20px 0 10px 0;
+}
+
+.deals_report_form_input {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 10px;
+  
+}
+
+@media (min-width: 769px) {
+  .deals_report_form_container {
+    margin: 10px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+}
+
+.deals_report_form_input_select {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+ 
+}
+
+.deals_report_form_input_select select{
+    border-radius: 10px;
+
+}
+
+.deals_report_table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.deals_report_table th,
+.deals_report_table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.deals_report_table th {
+  background-color: #f2f2f2;
+}

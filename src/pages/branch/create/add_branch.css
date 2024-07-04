@@ -1,0 +1,47 @@
+.addbranchform{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 26px;
+    padding: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 25px;
+    border: 3px solid #1f2937;
+    margin-top: 90px;
+   
+}
+form h2{
+  font-size: 30px;
+  font-weight: 600;
+  color: #374151;
+}
+.addbranchform h2{
+  font-weight: 600;
+    /* text-decoration: underline; */
+}
+
+  @media (min-width:769px) {
+  
+      .addbranchform{
+        margin-top: 200px;
+        margin-left: 30%;
+        margin-right: 30%;
+       
+      }
+  }
+  .wide-input {
+    width: 100%; 
+  }
+  .input_name{
+    font-size: 15px;
+  }
+  .error-borderbranch {
+    border: 1px solid red !important;
+    border-radius: 9px;
+    height: 44px;
+  }
+  .branch_btn{
+    background-color: #1f2937;
+    width: 200px;
+  }

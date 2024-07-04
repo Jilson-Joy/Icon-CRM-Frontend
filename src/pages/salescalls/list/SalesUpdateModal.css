@@ -1,0 +1,26 @@
+.Update_Modal_header{
+    text-align: center;
+}
+.Update_Modal_section1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.Update_Modal_section_a1{
+    flex-grow: 1;  
+}
+.Update_Modal_section_button1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.sales_btn_Modal{
+    color: white;
+    font-size: 600;
+    background-color: #374151;
+    width: 200px;
+
+}

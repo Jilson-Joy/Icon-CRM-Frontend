@@ -1,0 +1,25 @@
+{
+    "projectedTiv":[
+        {
+            "id":"1",
+            "engineers":"jilson",
+            "segment":"segment1",
+            "district":"Thrissur",
+            "productwise":"product1"
+        },
+        {
+            "id":"2",
+            "engineers":"Rizwana",
+            "segment":"segment1",
+            "district":"Thrissur",
+            "productwise":"product1"
+        },
+        {
+            "id":"3",
+            "engineers":"Dwadhasi",
+            "segment":"segment1",
+            "district":"Thrissur",
+            "productwise":"product1"
+        }
+    ]
+} 

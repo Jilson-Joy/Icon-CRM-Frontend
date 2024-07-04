@@ -1,0 +1,45 @@
+.Appraisaltable3{
+    margin: 10px;
+}
+
+.appraisal_table{
+    border: 3px solid #1f2937;
+    padding: 12px;
+    border-radius: 10px;
+    
+}
+
+.appraisal_thead{
+    background-color: #5AB2FF;
+    font-size: 15px;
+    color: white;
+}
+
+.apprasial_eligible_gm{
+    background-color: #CAF4FF;
+}
+
+.row_2_gm{
+    font-weight: bold;
+    background-color: #CAF4FF;
+    font-size: 15px;
+    color: black;
+}
+         
+/* .appraisal_row{
+    font-weight: bold;
+    font-size: 18px;
+} */
+
+.appraisal_row_1{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.row_3_gm {
+    background-color: #FFF2D7;
+}
+
+.total_row_gm{
+    background-color: #FDE49E;
+}

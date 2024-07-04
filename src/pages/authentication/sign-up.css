@@ -1,0 +1,18 @@
+
+
+@media (max-width: 768px) {
+    .card-container {
+      width: 100%; /* Cards take full width on small screens */
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 992px) {
+    .card-container {
+      width: 50%; /* Cards take half width on medium screens */
+    }
+  }
+
+
+  .sign-up{
+    background-color: lavenderblush;
+  }

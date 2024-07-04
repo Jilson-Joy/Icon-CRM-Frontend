@@ -1,0 +1,43 @@
+{
+    "sales_engineer_monthly_target":[
+        {
+            "id":"1",
+            "salesEngineer":"Dwadhasi",
+            "district":"Kottayam",
+            "salesCalls":"",
+            "newProspect":"",
+            "markettingActivity":"",
+            "newMachineSales":"",
+            "participationRate":"",
+            "marketShare":"",
+            "strikeRate":""
+
+        },
+        {
+            "id":"2",
+            "salesEngineer":"Rizwana",
+            "district":"Ernakulam",
+            "salesCalls":"",
+            "newProspect":"",
+            "markettingActivity":"",
+            "newMachineSales":"",
+            "participationRate":"",
+            "marketShare":"",
+            "strikeRate":""
+
+        },
+        {
+            "id":"3",
+            "salesEngineer":"Jilson",
+            "district":"Thrissur",
+            "salesCalls":"",
+            "newProspect":"",
+            "markettingActivity":"",
+            "newMachineSales":"",
+            "participationRate":"",
+            "marketShare":"",
+            "strikeRate":""
+
+        }
+    ]
+}

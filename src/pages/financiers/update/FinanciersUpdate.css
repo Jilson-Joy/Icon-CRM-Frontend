@@ -1,0 +1,22 @@
+.financ_container{
+    /* border: 3px solid #374151; */
+    border-radius: 10px;
+    padding: 10px;
+}
+.inputFieldFinancer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+  }
+  .inputFieldFinancer input{
+    border-radius: 10px;
+  }
+  #textbox1,#textbox2{
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .form_butt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

@@ -1,0 +1,28 @@
+{
+    "productivityData":[
+        {
+            "id":1,
+            "Employee":"Jilson",
+            "segment":"segment1",
+            "Department":"Department1"
+        },
+        {
+            "id":2,
+            "Employee":"Ditto",
+            "segment":"segment2",
+            "Department":"Department2"
+        },
+        {
+            "id":3,
+            "Employee":"Jeevan",
+            "segment":"segment3",
+            "Department":"Department3"
+        },
+        {
+            "id":4,
+            "Employee":"sam",
+            "segment":"segment3",
+            "Department":"Department4"
+        }
+    ]
+}

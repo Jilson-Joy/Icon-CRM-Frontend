@@ -1,0 +1,53 @@
+.modal_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.modal_box{
+    border:3px solid black;
+    border-radius: 10px;
+    padding: 18px;
+    width: 500px;
+    margin: 10px;
+}
+.modal_profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal_profile img{
+    border: 3px solid rgba(0, 0, 0, 0.637);
+ border-radius: 50%;
+ width: 150px;
+ height: auto;
+ /* height: auto; */
+}
+.input_profile_data{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.display_data{
+    display: flex;
+    flex-direction: column;
+}
+.display_data input{
+    border-radius: 10px;
+}
+.profile_back_Button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.profile_back_Button button{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 200px;
+    background-color: #374151;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}

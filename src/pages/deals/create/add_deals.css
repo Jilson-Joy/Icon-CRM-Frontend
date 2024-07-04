@@ -1,0 +1,32 @@
+.main{
+    /* background-color: white; */
+    /* height: 100vh; */
+    padding: 20px;
+}
+
+h2{
+    color:#1f2937;
+    font-size: 1.875rem;
+}
+
+/* .butt_add{
+    background-color: rgb(236 72 153);
+}
+
+
+.butt_add :hover{
+    background-color: rgb(219 39 119);
+}
+
+.butt_add :focus{
+    outline: white;
+} */
+
+.butt_add{
+    background-color: #1f2937;
+}
+
+.form-design{
+    border: 3px solid #1f2937;
+    padding: 12px;
+}

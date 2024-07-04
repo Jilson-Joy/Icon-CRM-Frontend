@@ -1,0 +1,81 @@
+.order_loss_form {
+    margin: 16px;
+    border: 3px solid #1f2937;    
+    padding: 16px;
+    border-radius: 15px;
+}
+
+.order_loss_input_box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.order_loss_1 {
+    width: 100%;
+}
+
+.orderLoss_header {
+    text-align: center;
+}
+
+.orderLoss_section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+
+.orderLoss_section_a1 {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.orderLoss_section_a1 select, 
+.orderLoss_section_a1 input,
+.orderLoss_section_a1 textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.orderLoss_buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.orderLoss_btn {
+    width: 200px;
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.orderLoss_btn:hover {
+    background-color: #1f2937;
+}
+
+/* Responsive adjustments */
+@media (min-width: 768px) {
+    .order_loss_form {
+        margin: 32px auto;
+        max-width: 800px;
+    }
+
+    .orderLoss_section_a1 {
+        flex: 0 1 calc(50% - 10px);
+    }
+}

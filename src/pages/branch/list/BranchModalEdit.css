@@ -1,0 +1,17 @@
+.EditBranch_header{
+    text-align: center;
+}
+.EditBranch_btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.EditBranch_btn{
+    width: 200px;
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    
+}

@@ -1,0 +1,30 @@
+.seng_monthly_target_form{
+    margin: 16px;
+    border: 3px solid #1f2937;    
+    padding: 16px;
+    border-radius: 15px;
+}
+
+.seng_monthly_target_input_box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.seng_monthly_target_1{
+    width: 300px;
+}
+
+
+@media (min-width:768px) {
+    .seng_monthly_target_form{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+.seng_monthly_target_container{
+    margin-top: 190px;
+}

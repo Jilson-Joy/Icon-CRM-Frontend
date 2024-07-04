@@ -1,0 +1,158 @@
+.form_new_bill_container {
+  border: 3px solid black;
+  margin: 10px;
+  padding: 16px;
+  border-radius: 10px;
+}
+
+.form_new_bill_row1 {
+  margin-bottom: 10px;
+}
+.form_new_bill_row1 h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.form_new_bill_row2,
+.form_new_bill_row3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  gap: 16px;
+}
+.form_new_bill_col2_1 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+/* fix select */
+.form_new_bill_col2_1 select {
+  width: auto;
+}
+.form_new_bill_row4,
+.form_new_bill_row5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  gap: 16px;
+}
+.form_new_bill_row2 input,
+.form_new_bill_row3 input,
+.form_new_bill_row4 input,
+.form_new_bill_row5 input {
+  border-radius: 10px;
+}
+.form_new_bill_row6 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  gap: 16px;
+}
+.form_new_bill_file {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.form_new_bill_file1,
+.form_new_bill_file2 {
+  display: flex;
+  flex-direction: column;
+}
+.form_new_bill_file1 input,
+.form_new_bill_file2 input {
+  border-radius: 10px;
+  background-color: bisque;
+}
+.form_new_bill_col6 {
+  flex: 1;
+}
+.form_new_bill_col6_1 {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.form_new_bill_col6_1_1,
+.form_new_bill_col6_1_2 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+/*  */
+.form_new_bill_col6_1_1 input,
+.form_new_bill_col6_1_2 input {
+  border-radius: 10px;
+}
+.form_new_bill_col6_3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.form_new_bill_col6_2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.form_new_bill_col7 {
+  display: flex;
+  flex-direction: column;
+}
+.form_new_bill_col6_3 input {
+  border-radius: 10px;
+}
+.form_new_bill_colbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+.form_new_bill_colbtn button {
+  display: flex;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: #ffff;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+@media (max-width: 767px) {
+  .form_new_bill_col2_1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* .form_new_bill_col6_1_1,
+  .form_new_bill_col6_1_2 {
+    width: 100%;
+  } */
+  .form_new_bill_row2,
+  .form_new_bill_row3,
+  .form_new_bill_row4,
+  .form_new_bill_row5 {
+    display: flex;
+
+    flex-direction: column;
+  }
+}
+.error{
+  color: red;
+}

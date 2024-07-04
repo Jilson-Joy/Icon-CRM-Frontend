@@ -1,0 +1,45 @@
+.financier_table{
+    border: 3px solid #1f2937;
+    padding: 25px;
+    width: 100%; 
+  }
+
+.financrtable_div{
+    padding: 50px;
+
+}
+.financier_heading{
+    font-size: 36px; 
+    color: #1f2937; 
+    text-align: center; 
+    margin-bottom: 20px; 
+    font-weight: bold; 
+}
+
+.add_financier_filter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .add_financier_filter span {
+    border: 1px solid;
+    padding: 8px;
+    border-radius: 10px 0px 0px 10px;
+  }
+  .add_financier_filter input {
+    border-left: 0;
+    border-radius: 0px 10px 10px 0px;
+  }
+  .AddFinancier_header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    gap: 10px;
+    padding: 10px;
+    background-color: gainsboro;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: none;
+    border-radius: 10px;
+  }

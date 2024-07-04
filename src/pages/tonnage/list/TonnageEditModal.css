@@ -1,0 +1,29 @@
+.EditTonnage_header{
+    text-align: center;
+}
+.EditTonnage_section1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.EditTonnage_section_a1{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+.EditTonnage_section_a1 input {
+    border-radius: 9px;
+}
+.EditTonnage_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
+}
+.EditTonnage_button1{
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+}

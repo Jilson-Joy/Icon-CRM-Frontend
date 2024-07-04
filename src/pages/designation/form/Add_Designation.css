@@ -1,0 +1,32 @@
+/* .designation_model{
+    padding: 50px;
+}
+.designation_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0  0 0;
+    gap: 20px;
+}
+.designation_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+} */
+ .Add_Designation_header{
+    text-align: center;
+ }
+ .Add_Designation_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+ }
+ .Add_Designation_btn{
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+}

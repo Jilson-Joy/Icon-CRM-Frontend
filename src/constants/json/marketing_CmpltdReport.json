@@ -1,0 +1,28 @@
+{
+    "marketing_rprtCmpltd" :[
+        {
+            "id": "",
+            "SI": "",
+            "marketingActivity": "",
+            "proposedDate": "",
+            "proposedAmount": "",
+            "disbursibleAmount": "",
+            "engineerName": "",
+            "dateofActvty": "",
+            "totalExpense": "",
+            "remarks": ""
+          },
+          {
+            "id": "2",
+            "SI": "2",
+            "marketingActivity": "Email Newsletter",
+            "proposedDate": "2024-04-10",
+            "proposedAmount": "$700",
+            "disbursibleAmount": "$650",
+            "engineerName": "Jane Smith",
+            "dateofActvty": "12/5/2025",
+            "totalExpense": "5000",
+            "remarks": "Promote new product launch"
+          }
+    ]
+}

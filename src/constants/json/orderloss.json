@@ -1,0 +1,48 @@
+{
+  "order_loss": [
+    {
+      "id": "1",
+      "customerName": "rizwana",
+      "district": "Ernakulam",
+      "subseg": "segment2",
+      "hub": "hub2",
+      "mcapplication": "mc13",
+      "cusfleetsize": "fleet2",
+      "custype": "customer2",
+      "phno": "8089831844",
+      "financeyear": "2021",
+      "com/oem": "",
+      "model": "",
+      "qntyty": "",
+      "bucket": "",
+      "Participation": "",
+      "visitafterlost": "",
+      "visitdate": "",
+      "rsonforloss": "",
+      "rsonforbysany": "",
+      "remarks": ""
+    },
+    {
+      "id": "1",
+      "customerName": "jilson",
+      "district": "Thrissur",
+      "subseg": "segment3",
+      "hub": "hub3",
+      "mcapplication": "mc14",
+      "cusfleetsize": "fleet3",
+      "custype": "customer3",
+      "phno": "9042846742",
+      "financeyear": "2022",
+      "com/oem": "",
+      "model": "",
+      "qntyty": "",
+      "bucket": "",
+      "Participation": "",
+      "visitafterlost": "",
+      "visitdate": "",
+      "rsonforloss": "",
+      "rsonforbysany": "",
+      "remarks": ""
+    }
+  ]
+}

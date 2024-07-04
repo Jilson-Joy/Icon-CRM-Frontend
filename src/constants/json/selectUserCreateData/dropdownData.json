@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "id":1,
+            "role":"role1",
+            "designation":"designation1"
+        },
+        {
+            "id":2,
+            "role":"role2",
+            "designation":"designation2"
+        },
+        {
+            "id":3,
+            "role":"role3",
+            "designation":"designation3"
+        },
+        {
+            "id":4,
+            "role":"role4",
+            "designation":"designation4"
+        }
+    ]
+}

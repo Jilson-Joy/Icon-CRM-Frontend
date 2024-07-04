@@ -1,0 +1,158 @@
+{
+  "salescalldetail": [
+    {
+      "deallist": "Profit",
+      "Number": "+915445644323",
+      "Stage": "A",
+      "bank": "HDFC",
+      "comment": "44432323232323",
+      "currentTime": "4/12/2024, 5:29:22 PM",
+      "SelectDate": "2024-04-23",
+      "Radiobox": "No",
+      "id": "ddac"
+    },
+    {
+      "deallist": "profit",
+      "Number": "+914445555555",
+      "Stage": "A",
+      "bank": "HDFC",
+      "comment": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+      "currentTime": "4/11/2024, 2:48:47 PM",
+      "SelectDate": "2024-05-01",
+      "Radiobox": "No",
+      "id": "4f91"
+    },
+    {
+      "deallist": "Profit",
+      "Number": "+910044444444",
+      "Stage": "A",
+      "bank": "HDFC",
+      "comment": "fgds",
+      "currentTime": "4/12/2024, 5:35:33 PM",
+      "SelectDate": "2024-04-24",
+      "Radiobox": "No",
+      "id": "bba4"
+    },
+    {
+      "deallist": "profit",
+      "Number": "+916767476677",
+      "Stage": "LLOS",
+      "bank": "Axis",
+      "comment": "rhdrhd",
+      "currentTime": "4/11/2024, 5:32:35 PM",
+      "SelectDate": "2024-04-16",
+      "Radiobox": "No",
+      "id": "0876"
+    },
+    {
+      "id": "0739",
+      "deallist": "Germany",
+      "Number": "+916767411111",
+      "Stage": "A",
+      "bank": "Axis",
+      "comment": "helloo",
+      "currentTime": "4/9/2024, 2:59:33 PM",
+      "SelectDate": "2024-04-16",
+      "Radiobox": "Yes"
+    },
+    {
+      "deallist": "Loss",
+      "Number": "+916767476677",
+      "Stage": "A",
+      "bank": "HDFC",
+      "comment": "fdhdfhdfhdfh",
+      "currentTime": "4/12/2024, 10:09:46 AM",
+      "SelectDate": "2024-04-12",
+      "Radiobox": "Yes",
+      "id": "857e"
+    },
+    {
+      "deallist": "profit",
+      "Number": "+914444444444",
+      "Stage": "A",
+      "bank": "HDFC",
+      "comment": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "currentTime": "4/11/2024, 2:48:58 PM",
+      "SelectDate": "2024-04-23",
+      "Radiobox": "No",
+      "id": "1a69"
+    },
+    {
+      "id": "5091",
+      "deallist": "A",
+      "Number": "+916767476677",
+      "Stage": "A",
+      "bank": "Axis",
+      "comment": "hdfhdfhd",
+      "currentTime": "4/11/2024, 10:45:21 AM",
+      "SelectDate": "2024-04-19",
+      "Radiobox": "Yes"
+    },
+    {
+      "id": "0ae9",
+      "deallist": "A",
+      "Number": "+916767476677",
+      "Stage": "B",
+      "bank": "Axis",
+      "comment": "svdxd",
+      "currentTime": "4/11/2024, 10:54:29 AM",
+      "SelectDate": "2024-04-16",
+      "Radiobox": "No"
+    },
+    {
+      "deallist": "France",
+      "Number": "+912828282822",
+      "Stage": "A",
+      "bank": "Axis",
+      "comment": "etet",
+      "currentTime": "4/12/2024, 10:54:50 AM",
+      "SelectDate": "2024-04-16",
+      "Radiobox": "No",
+      "id": "258c"
+    },
+    {
+      "id": "6bf9",
+      "deallist": "Germany",
+      "Number": "+916767476677",
+      "Stage": "A",
+      "bank": "ICICI",
+      "comment": "jilson",
+      "currentTime": "4/11/2024, 5:07:49 PM",
+      "SelectDate": "2024-04-12",
+      "Radiobox": "Yes"
+    },
+    {
+      "id": "248f",
+      "deallist": "France",
+      "Number": "+912222222222",
+      "Stage": "A",
+      "bank": "HDFC",
+      "comment": "rey",
+      "currentTime": "4/11/2024, 5:09:17 PM",
+      "SelectDate": "2024-04-11",
+      "Radiobox": "No"
+    },
+    {
+      "id": "9330",
+      "deallist": "France",
+      "Number": "+914444444444",
+      "Stage": "B",
+      "bank": "SBI",
+      "comment": "hgh",
+      "currentTime": "4/11/2024, 5:18:30 PM",
+      "SelectDate": "2024-05-01",
+      "Radiobox": "No"
+    },
+    {
+      "id": "6fef",
+      "deallist": "France",
+      "Number": "+916767476677",
+      "Stage": "C",
+      "bank": "ICICI",
+      "comment": "hdhdhdh",
+      "currentTime": "4/11/2024, 5:22:49 PM",
+      "SelectDate": "2024-04-29",
+      "Radiobox": "Yes"
+    }
+  ]
+}

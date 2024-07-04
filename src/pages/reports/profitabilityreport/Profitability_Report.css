@@ -1,0 +1,13 @@
+.Profitability_Report_container{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 3px solid #374151;
+    border-radius: 10px;
+    padding: 16px;
+    gap: 10px;
+}
+.Profitability_Report_header{
+    text-align: center;
+}

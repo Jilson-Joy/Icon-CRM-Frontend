@@ -1,0 +1,41 @@
+.tiv_table{
+    border: 3px solid #1f2937;
+    padding: 12px;
+}
+
+.tab_tiv{
+    padding: 50px;
+ 
+}
+
+.tiv_div{
+    background-color: #dcdcdc;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.tiv_search span{
+    border: 1px solid black;
+    padding: 8px;
+    color: black;
+    /* border-right: 0; */
+    border-radius: 10px 0px 0px 10px;
+}
+
+.tiv_search{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+
+.tiv_search input{
+    border-left: 0;
+    border-radius: 0px 10px 10px 0px;
+    color: black;
+}
+
+.tiv_h2_div{
+    text-align: center;
+}

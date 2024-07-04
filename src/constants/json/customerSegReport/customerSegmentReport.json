@@ -1,0 +1,40 @@
+{
+    "custSegReportData":[
+        {
+            "id":1,
+            "name":"Jilson",
+            "S_fleet":"1",
+            "semi_corporate":"semi corporate 1",
+            "Key_accounts":"Key accounts 1"
+        },
+        {
+            "id":2,
+            "name":"Sam",
+            "S_fleet":"2",
+            "semi_corporate":"semi corporate 2",
+            "Key_accounts":"Key accounts 2"
+        },
+        {
+            "id":3,
+            "name":"Ditto",
+            "S_fleet":"3",
+            "semi_corporate":"semi corporate 3",
+            "Key_accounts":"Key accounts 3"
+        },
+        {
+            "id":4,
+            "name":"jeevan",
+            "S_fleet":"4",
+            "semi_corporate":"semi corporate 4",
+            "Key_accounts":"Key accounts 4"
+        },
+        {
+            "id":5,
+            "name":"zen",
+            "S_fleet":"5",
+            "semi_corporate":"semi corporate 5",
+            "Key_accounts":"Key accounts 5"
+        }
+       
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "add_financier": [
+    {
+      "id": "1",
+      "financierName": "rizwana",
+      "district": "kochi",
+      "officeAddress": "adress",
+      "executiveName": "riz",
+      "phoneNo": "1234567890",
+      "mailId": "abc@gmail.com"
+    },
+    {
+      "id": "f0bf",
+      "financierName": "rizwanaaa",
+      "district": "kochi",
+      "officeAddress": "address",
+      "executiveName": "riz",
+      "phoneNo": "7894561230",
+      "mailId": "riz@gmail.com"
+    },
+    {
+      "id": "1a69",
+      "financierName": "Dhwadhashi",
+      "district": "kottayam",
+      "officeAddress": "vaikam",
+      "executiveName": "kuttuh",
+      "phoneNo": "7895236410",
+      "mailId": "kuttu@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+.AddTonnage_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+.AddTonnage_form {
+    border: 3px solid #374151;
+    border-radius: 20px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    margin: 40px 10px 0 10px;
+}
+  
+  @media (min-width: 769px) {
+    .AddTonnage_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* height: 100vh; */
+    }
+    .AddTonnage_form {
+      /* width: 40%;  */
+      margin: 10px auto; /* Center the form horizontally */
+    }
+  }
+.AddTonnage_inputdiv{
+  display: flex;
+  flex-direction: column;
+}
+.AddTonnage_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.AddTonnage_header h2{
+    font-size: 30px; 
+    font-weight: 600;
+    color: #374151;
+}
+.AddTonnage_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.AddTonnage_button button{
+    background-color: #374151;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    /* width: 100%; */
+    margin-top: 10px;
+}
+
+.errormsg {
+    font-size: small;
+    font-weight: 600;
+    color: red;
+  }
+   .error-borderAddTonnage {
+ 
+    border: 1px solid red !important;
+    border-radius: 5px; 
+    height: 40px;
+  }

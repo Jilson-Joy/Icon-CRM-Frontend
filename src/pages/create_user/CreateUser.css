@@ -1,0 +1,88 @@
+ .createUser_container {
+    margin-top: 10px;
+  }
+  .createuser {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 18px;
+    border: 3px solid black;
+    gap: 10px;
+  }
+  .createuser_header {
+    text-align: center;
+  }
+  .createuser_header h2 {
+    font-weight: 700;
+  }
+  .createuser_form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .createuser_input_div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    position: relative;
+  }
+  .createuser_input_div label {
+    font-weight: 600;
+  }
+  .createuser_input_div input,
+  .createuser_input_div select {
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .password_input {
+    position: relative;
+  }
+  .password_input input {
+    width: 100%;
+    padding-right: 2.5rem; /* Add padding to the right to make space for the toggle button */
+  }
+  .toggle_password {
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0; /* Remove any default padding */
+    margin: 0; /* Remove any default margin */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .createuser_button {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  .createuser_button button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+  }
+  .createuser_button button[type="button"] {
+    background-color: #374151;
+  }
+  .createuser_button button[type="submit"] {
+    background-color: #04aa6d;
+  }
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  

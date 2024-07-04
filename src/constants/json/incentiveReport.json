@@ -1,0 +1,26 @@
+{
+    "incentiveData":[
+        {
+            "id":"1",
+            "employee":"jilson",
+            "segment":"segment1",
+            "department":"dep1"
+
+        },
+        {
+            "id":"2",
+            "employee":"Rizwana",
+            "segment":"segment1",
+            "department":"dep2"
+
+        },
+        {
+            "id":"3",
+            "employee":"Dwadhasi",
+            "segment":"segment1",
+            "department":"dep3"
+
+        }
+
+    ]
+}

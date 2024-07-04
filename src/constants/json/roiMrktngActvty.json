@@ -1,0 +1,10 @@
+{
+    "roi_mrktng": [
+        [
+            { "id": "1", "marketing_event": "Marketing Event 1", "deal": "Deal 1", "model": "Model A", "type": "Type A", "report": "Report A" },
+            { "id": "2", "marketing_event": "Marketing Event 2", "deal": "Deal 2", "model": "Model B", "type": "Type B", "report": "Report B" },
+            { "id": "3", "marketing_event": "Marketing Event 3", "deal": "Deal 3", "model": "Model C", "type": "Type C", "report": "Report C" }
+          ]
+          
+    ]
+}

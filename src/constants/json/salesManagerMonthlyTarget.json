@@ -1,0 +1,55 @@
+{
+  "sales_manager_monthly_target": [
+    {
+      "id": "1",
+      "salesManager": "Dwadhasi",
+      "district": "Kottayam",
+      "salesCalls": "",
+      "newProspect": "",
+      "markettingActivity": "",
+      "newMachineSales": "",
+      "participationRate": "",
+      "marketShare": "",
+      "strikeRate": ""
+    },
+    {
+      "id": "2",
+      "salesManager": "Rizwana",
+      "district": "Ernakulam",
+      "salesCalls": "",
+      "newProspect": "",
+      "markettingActivity": "",
+      "newMachineSales": "",
+      "participationRate": "",
+      "marketShare": "",
+      "strikeRate": ""
+    },
+    {
+      "id": "3",
+      "salesManager": "Jilson",
+      "district": "Thrissur",
+      "salesCalls": "",
+      "newProspect": "",
+      "markettingActivity": "",
+      "newMachineSales": "",
+      "participationRate": "",
+      "marketShare": "",
+      "strikeRate": ""
+    },
+    {
+      "id": "bdab",
+      "salesManager": "Dwadhasi",
+      "district": "Kottayam",
+      "salesCalls": "ghyhh",
+      "newProspect": "dcdd",
+      "markettingActivity": "gth",
+      "newMachineSales": "gtyhh",
+      "participationRate": "hhhh",
+      "marketShare": "hyhhh",
+      "strikeRate": "yhjhhuhyhh",
+      "salesCallWithTeam": "2",
+      "coutesyCalls": "4",
+      "customerVisitWithServiceTeam": "66"
+    }
+  ]
+}

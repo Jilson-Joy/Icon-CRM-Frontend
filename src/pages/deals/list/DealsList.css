@@ -1,0 +1,60 @@
+.deals_table{
+    border: 3px solid #1f2937;
+    padding: 12px;
+}
+
+.tab_deal{
+    padding: 50px;
+}
+
+
+
+/* .butt_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.btn-outline {
+    width: auto;
+    float: right;
+  }
+
+  .deal_search{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+
+  .deal_search span{
+    border: 1px solid black;
+    padding: 8px;
+    color: black;
+    /* border-right: 0; */
+    border-radius: 10px 0px 0px 10px;
+  }
+
+  .deal_search input{
+    border-left: 0;
+    border-radius: 0px 10px 10px 0px;
+    color: black;
+  }
+
+  .top_deal{
+    background-color: #dcdcdc;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+  }
+
+  .pagination-button{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 5px;
+  }
+
+  .deal_pagination{
+    display: flex;
+    gap: 5px;
+  }

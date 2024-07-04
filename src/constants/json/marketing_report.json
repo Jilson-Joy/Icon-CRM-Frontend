@@ -1,0 +1,84 @@
+{
+  "marketing_report_detials": [
+    {
+      "id": "1",
+      "SI": "1",
+      "marketingActivity": "Social Media Campaign",
+      "proposedDate": "2024-03-15",
+      "proposedAmount": "$1600",
+      "disbursibleAmount": "$1200",
+      "engineerName": "John Doe",
+      "remarks": "Increase brand awareness to 5%"
+    },
+    {
+      "id": "2",
+      "SI": "2",
+      "marketingActivity": "Email Newsletter",
+      "proposedDate": "2024-04-10",
+      "proposedAmount": "$700",
+      "disbursibleAmount": "$650",
+      "engineerName": "Jane Smith",
+      "remarks": "Promote new product launch"
+    },
+    {
+      "id": "3",
+      "SI": "3",
+      "marketingActivity": "SEO Optimization",
+      "proposedDate": "2024-05-01",
+      "proposedAmount": "$1200",
+      "disbursibleAmount": "$1100",
+      "engineerName": "Alice Johnson",
+      "remarks": "Improve search engine ranking"
+    },
+    {
+      "id": "4",
+      "SI": "4",
+      "marketingActivity": "Content Marketing",
+      "proposedDate": "2024-06-20",
+      "proposedAmount": "$2000",
+      "disbursibleAmount": "$1800",
+      "engineerName": "Bob Brown",
+      "remarks": "Create engaging blog posts"
+    },
+    {
+      "id": "5",
+      "SI": "5",
+      "marketingActivity": "Influencer Collaboration",
+      "proposedDate": "2024-07-05",
+      "proposedAmount": "$5000",
+      "disbursibleAmount": "$4500",
+      "engineerName": "Chris Green",
+      "remarks": "Partner with industry influencers"
+    },
+    {
+      "id": "6",
+      "SI": "6",
+      "marketingActivity": "PPC Advertising",
+      "proposedDate": "2024-08-15",
+      "proposedAmount": "$3000",
+      "disbursibleAmount": "$2700",
+      "engineerName": "Diana White",
+      "remarks": "Run targeted ad campaigns"
+    },
+    {
+      "id": "7",
+      "SI": "7",
+      "marketingActivity": "Webinar Series",
+      "proposedDate": "2024-09-10",
+      "proposedAmount": "$2500",
+      "disbursibleAmount": "$2222",
+      "engineerName": "Edward Black",
+      "remarks": "Host educational webinars"
+    },
+    {
+      "id": "8",
+      "SI": "8",
+      "marketingActivity": "Trade Show Exhibition",
+      "proposedDate": "2024-10-25",
+      "proposedAmount": "$4555",
+      "disbursibleAmount": "$9000",
+      "engineerName": "Fiona Blue",
+      "remarks": "Exhibit at major trade shows "
+    }
+  ]
+}

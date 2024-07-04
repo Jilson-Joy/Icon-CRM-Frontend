@@ -1,0 +1,344 @@
+// import React from 'react'
+// import './Tabledetails.css'
+
+// function Tabledetails() {
+//   return (
+//     <div className='table_container'>
+//         <table className='table'>
+//           <thead>
+//             <th>SL.NO</th>
+//             <th>Financier name</th>
+//             <th>Executive name</th>
+//             <th>Discussion points</th>
+//             <th>Sales enginner name</th>
+//             <th>Remarks</th>
+//             </thead> 
+//             <tbody>
+//                 <tr>
+//                     <td data-lable="SL.NO">1</td>
+//                     <td data-lable="Financier name">jilson</td>
+//                     <td data-lable="Executive name">joy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">sam</td>
+//                     <td data-lable="Remarks">dggs</td>
+//                 </tr>
+//                 <tr>
+//                     <td data-lable="SL.NO">2</td>
+//                     <td data-lable="Financier name">john</td>
+//                     <td data-lable="Executive name">roy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">ram</td>
+//                     <td data-lable="Remarks">ryrg</td>
+//                 </tr>
+//                 <tr>
+//                     <td data-lable="SL.NO">3</td>
+//                     <td data-lable="Financier name">john</td>
+//                     <td data-lable="Executive name">roy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">ram</td>
+//                     <td data-lable="Remarks">ryrg</td>
+//                 </tr>
+//                 <tr>
+//                     <td data-lable="SL.NO">4</td>
+//                     <td data-lable="Financier name">john</td>
+//                     <td data-lable="Executive name">roy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">ram</td>
+//                     <td data-lable="Remarks">ryrg</td>
+//                 </tr>
+
+//             </tbody>
+//         </table>
+//     </div>
+//   )
+// }
+
+// export default Tabledetails
+
+
+
+
+
+---------------------------------------------Flowbite-------------------------------------
+------------------------Css--------------------------------
+.table_container{
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+   
+   
+}
+*{
+    box-sizing: border-box;
+    
+    
+}
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    /* test */
+    /* border: 1px solid blue;
+    border-radius: 10px 10px 0 0;  */
+}
+
+.table td, .table th{
+    padding: 12px 15px;
+    border: 1px solid #0a0a0a;
+
+    text-align: center;
+    font-size:16px ;
+    
+}
+.table th{
+    background-color:#51617a ;
+    color: #ffffff;
+
+}
+.table tbody tr:nth-child(even){
+background-color:#e7e4e4 ;
+}
+@media (max-width:767px) {
+    .table thead{
+        display: none;
+    }
+    .table, .table tbody, .table tr, .table td{
+        display: block;
+        width: 100%;
+    }
+    .table tr{
+        margin-bottom: 15px;
+    }
+    .table td{
+        text-align: left;
+        padding-left: 50%;
+        position: relative;
+
+    }
+    .table td::before{
+        content:attr(data-lable);
+        position: absolute;
+        left: 0;
+        width:50% ;
+        padding-left: 15px;
+        font-size: 15px;
+        font-weight:bold ;
+        text-align: left;
+    }
+}
+
+-------------------------React-----------------------------
+
+import React from 'react'
+import "./Tabledetails.css"
+function Tabledetails() {
+  return (
+    <div className='table_container'>
+        <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
+    <table className="table w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+        <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+            <tr>
+                <th scope="col" className="px-6 py-3">
+                    SL NO
+                </th>
+                <th scope="col" className="px-6 py-3">
+                    Financier name
+                </th>
+                <th scope="col" className="px-6 py-3">
+                    Executive name
+                </th>
+                <th scope="col" className="px-6 py-3">
+                    discussion points
+                </th>
+                <th scope="col" className="px-6 py-3">
+                    Sales enginner name
+                </th>
+                <th scope="col" className="px-6 py-3">
+                    Remarks
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr className="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+               
+                <td data-lable="SL NO" className="px-6 py-4">
+                    1
+                </td>
+                <td data-lable="Financier name" className="px-6 py-4">
+                    sam
+                </td>
+                <td data-lable="Executive name" className="px-6 py-4">
+                    Joy 
+                </td>
+                <td data-lable="discussion points" className="px-6 py-4">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                </td>
+                <td data-lable="Sales enginner name" className="px-6 py-4">
+                    jilson
+                </td>
+                <td data-lable="Remarks" class="px-6 py-4">
+                    bfnhxd
+                </td>
+            </tr>
+            <tr className="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+               
+               <td data-lable="SL NO" className="px-6 py-4">
+                   2
+               </td>
+               <td data-lable="Financier name" className="px-6 py-4">
+                   boss
+               </td>
+               <td data-lable="Executive name" className="px-6 py-4">
+                   wilson
+               </td>
+               <td data-lable="discussion points" className="px-6 py-4">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+               </td>
+               <td data-lable="Sales enginner name" className="px-6 py-4">
+                   Rahul
+               </td>
+               <td data-lable="Remarks" class="px-6 py-4">
+                   bfnhf
+               </td>
+           </tr>
+
+           <tr className="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+               
+               <td data-lable="SL NO" className="px-6 py-4">
+                  3
+               </td>
+               <td data-lable="Financier name" className="px-6 py-4">
+                   Edwin
+               </td>
+               <td data-lable="Executive name" className="px-6 py-4">
+                   John
+               </td>
+               <td data-lable="discussion points" className="px-6 py-4">
+                   Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+               </td>
+               <td data-lable="Sales enginner name" className="px-6 py-4">
+                   frank
+               </td>
+               <td data-lable="Remarks" class="px-6 py-4">
+                   bfnhxd
+               </td>
+           </tr>
+
+           <tr className="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+               
+               <td data-lable="SL NO" className="px-6 py-4">
+                  4
+               </td>
+               <td data-lable="Financier name" className="px-6 py-4">
+                   jeevan
+               </td>
+               <td data-lable="Executive name" className="px-6 py-4">
+                   ditto
+               </td>
+               <td data-lable="discussion points" className="px-6 py-4">
+                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+               </td>
+               <td data-lable="Sales enginner name" className="px-6 py-4">
+                   Boss
+               </td>
+               <td data-lable="Remarks" class="px-6 py-4">
+                   bfnhxd
+               </td>
+           </tr>
+
+           <tr className="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
+               
+               <td data-lable="SL NO" className="px-6 py-4">
+                   5
+               </td>
+               <td data-lable="Financier name" className="px-6 py-4">
+                   Roy
+               </td>
+               <td data-lable="Executive name" className="px-6 py-4">
+                   ryson
+               </td>
+               <td data-lable="discussion points" className="px-6 py-4">
+                   Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+               </td>
+               <td data-lable="Sales enginner name" className="px-6 py-4">
+                   ron
+               </td>
+               <td data-lable="Remarks" class="px-6 py-4">
+                   bfnhxd
+               </td>
+           </tr>
+
+        </tbody>
+    </table>
+</div>
+    </div>
+  )
+}
+
+export default Tabledetails
+
+
+
+// import React from 'react'
+// import './Tabledetails.css'
+
+// function Tabledetails() {
+//   return (
+//     <div className='table_container'>
+//         <table className='table'>
+//           <thead>
+//             <th>SL.NO</th>
+//             <th>Financier name</th>
+//             <th>Executive name</th>
+//             <th>Discussion points</th>
+//             <th>Sales enginner name</th>
+//             <th>Remarks</th>
+//             </thead> 
+//             <tbody>
+//                 <tr>
+//                     <td data-lable="SL.NO">1</td>
+//                     <td data-lable="Financier name">jilson</td>
+//                     <td data-lable="Executive name">joy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">sam</td>
+//                     <td data-lable="Remarks">dggs</td>
+//                 </tr>
+//                 <tr>
+//                     <td data-lable="SL.NO">2</td>
+//                     <td data-lable="Financier name">john</td>
+//                     <td data-lable="Executive name">roy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">ram</td>
+//                     <td data-lable="Remarks">ryrg</td>
+//                 </tr>
+//                 <tr>
+//                     <td data-lable="SL.NO">3</td>
+//                     <td data-lable="Financier name">john</td>
+//                     <td data-lable="Executive name">roy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">ram</td>
+//                     <td data-lable="Remarks">ryrg</td>
+//                 </tr>
+//                 <tr>
+//                     <td data-lable="SL.NO">4</td>
+//                     <td data-lable="Financier name">john</td>
+//                     <td data-lable="Executive name">roy</td>
+//                     <td data-lable="Discussion points">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, commodi.                        
+//                     </td>
+//                     <td data-lable="Sales enginner name">ram</td>
+//                     <td data-lable="Remarks">ryrg</td>
+//                 </tr>
+
+//             </tbody>
+//         </table>
+//     </div>
+//   )
+// }
+
+// export default Tabledetails

@@ -1,0 +1,85 @@
+/* .Departmentform1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 25px;
+}
+.Departmentform h2{
+  font-size: 30px;
+  font-weight: 600;
+  color: #374151;
+}
+
+  @media (min-width:769px) {
+      .Departmentform{
+        margin-top: 200px;
+        margin-left: 30%;
+        margin-right: 30%;
+      }
+  }
+  .wide-input {
+    width: 100%; 
+  }
+.input_name label{
+  font-size: 15px;
+}
+  .error-borderdepartment {
+    border: 1px solid red !important;
+    border-radius: 9px;
+    height: 44px;
+  }
+.depart_btn{
+  width: 100px;
+  background-color: #1f2937;
+}
+
+.button_item_department{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+}
+
+.button_item_department button{
+  background-color: #374151;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+
+}
+
+@media (max-width: 768px) {
+  .department_modal{
+    margin-top: 100px;
+  }
+}
+.department_modal_header{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+.department_modal_header{
+  text-align: center;
+}
+.button_item_department{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.button_item_department_btn{
+  background-color: #374151;
+  color: white;
+  border-radius: 10px;
+  font-weight: 600;
+  padding: 10px 20px;
+  width: 200px;
+}

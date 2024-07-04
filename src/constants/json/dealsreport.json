@@ -1,0 +1,95 @@
+{
+    "deals":[
+        {
+            "date": "2024-05-01",
+            "dealsname": "John Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment A",
+            "segment": "Segment A",
+            "dealsuggested": "District 1",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-01",
+            "dealsname": "Danial Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment B",
+            "segment": "Segment A",
+            "dealsuggested": "District 2",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-02",
+            "dealsname": "John Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment C",
+            "segment": "Segment A",
+            "dealsuggested": "District 3",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-02",
+            "dealsname": "Danial Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment D",
+            "segment": "Segment A",
+            "dealsuggested": "District 4",
+            "expecteddate": "2024-05-02"
+
+        },
+        {
+            "date": "2024-05-03",
+            "dealsname": "John Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment E",
+            "segment": "Segment A",
+            "dealsuggested": "District 5",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-03",
+            "dealsname": "Danial Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment F",
+            "segment": "Segment A",
+            "dealsuggested": "District 6",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-04",
+            "dealsname": "John Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment G",
+            "segment": "Segment A",
+            "dealsuggested": "District 7",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-04",
+            "dealsname": "Danial Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment H",
+            "segment": "Segment A",
+            "dealsuggested": "District 8",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-05",
+            "dealsname": "John Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment I",
+            "segment": "Segment A",
+            "dealsuggested": "District 9",
+            "expecteddate": "2024-05-02"
+        },
+        {
+            "date": "2024-05-05",
+            "dealsname": "Danial Doe",
+            "contact": "9656530420",
+            "mcmodel": "Segment J",
+            "segment": "Segment A",
+            "dealsuggested": "District 10",
+            "expecteddate": "2024-05-02"
+        }
+    ]
+}

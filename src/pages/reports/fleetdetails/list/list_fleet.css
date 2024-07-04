@@ -1,0 +1,31 @@
+.fleet_report_form_input{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.fleet_salesCall_report_form_input_select{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    
+
+}
+.fleet_salesCall_report_form_input_select input,select{
+   border-radius: 10px;
+   width: 200px;
+    
+
+}
+.machinenum a{
+    /* margin-top: 10px; */
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding: 10px 10px;
+    text-align: center;
+    color: red;
+}

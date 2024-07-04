@@ -1,0 +1,41 @@
+.salesUpdate_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.salesUpdateFeild {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.salesHeader h1 {
+  font-size: 40px;
+}
+.SalesForm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 3px solid black;
+  border-radius: 16px;
+  padding: 10px;
+  margin: 16px;
+}
+.salesSection1 {
+  display: flex;
+  flex-direction: column;
+  width: 315px;
+}
+/* .salesSection1 input, select,textarea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.salesSection2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}

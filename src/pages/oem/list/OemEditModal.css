@@ -1,0 +1,34 @@
+.EditOEM_header{
+text-align: center;
+}
+.EditOEM_section1{
+display: flex;
+/* align-items: center;
+justify-content: center; */
+flex-direction: column;
+gap: 10px;
+}
+.EditOEM_section_a1{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+.EditOEM_section_a1 input{
+    border-radius: 9px;
+}
+.EditOEM_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.EditOEM_button button{
+    background-color: #374151;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+}

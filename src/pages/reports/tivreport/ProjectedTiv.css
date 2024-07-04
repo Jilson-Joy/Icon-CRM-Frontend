@@ -1,0 +1,15 @@
+.report_tiv{
+    padding: 50px;
+}
+
+.tiv_report{
+    border: 3px solid #1f2937;
+    padding: 12px;
+}
+
+.top_tiv_report{
+    background-color: #dcdcdc;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}

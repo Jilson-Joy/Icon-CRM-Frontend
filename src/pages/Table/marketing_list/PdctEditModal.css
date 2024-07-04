@@ -1,0 +1,22 @@
+.Edit_markiting_header{
+   text-align: center; 
+}
+.Edit_markiting_section1{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.Edit_markiting_section_a1{
+    flex-grow: 1;
+}
+.Edit_markiting_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20PX;
+}
+.Edit_Marketing_Activity_button1{
+    width: 200PX;
+    background-color: #374151;
+}

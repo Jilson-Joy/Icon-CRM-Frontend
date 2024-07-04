@@ -1,0 +1,46 @@
+{
+  "EXPTableData": [
+    {
+      "id": 1,
+      "date": "2024-05-01",
+      "dateUpto": "15-05-2024",
+      "claimedAmount": "500",
+      "submittedOn":"20-09-2024",
+      "submittedBy": "jilson",
+      "ApprovedAmt": "500",
+      "ApprovedOn": "12-09-2024",
+      "ApprovedBy": "sam",
+      "ReleasedAmt": "200",
+      "ReleasedOn": "15-09-2024",
+      "notes": "ok"
+    },
+    {
+      "id": 2,
+      "date": "2024-05-02",
+      "dateUpto": "2024-05-02",
+      "claimedAmount": "500",
+      "submittedOn":"20-09-2024",
+      "submittedBy": "jilson",
+      "ApprovedAmt": "500",
+      "ApprovedOn": "12-09-2024",
+      "ApprovedBy": "sam",
+      "ReleasedAmt": "200",
+      "ReleasedOn": "15-09-2024",
+      "notes": "ok"
+    },
+    {
+      "id": 3,
+      "date": "2024-05-03",
+      "dateUpto": "30-05-2024",
+      "claimedAmount": "500",
+      "submittedOn":"20-09-2024",
+      "submittedBy": "jilson",
+      "ApprovedAmt": "500",
+      "ApprovedOn": "12-09-2024",
+      "ApprovedBy": "sam",
+      "ReleasedAmt": "200",
+      "ReleasedOn": "15-09-2024",
+      "notes": "ok"
+    }
+  ]
+}

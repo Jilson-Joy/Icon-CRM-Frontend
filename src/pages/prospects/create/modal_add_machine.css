@@ -1,0 +1,71 @@
+.btn-outline {
+    background-color: #1f2937;
+    color: white;
+    padding: 5px 30px; 
+    border: none;
+  }
+  
+  .btn-outline:hover {
+    background-color: #374151;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .btn-outline {
+    width: auto;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .btn-outline {
+      padding: 5px 10px; 
+    }
+  }
+  
+/* 
+   .modal-box form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .modal-box form label {
+    font-weight: bold;
+  }
+  
+  .modal-box form input,
+  .modal-box form select {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+  
+  .modal-box form input[type="submit"] {
+    background-color: #1f2937;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .modal-box form input[type="submit"]:hover {
+    background-color: #374151;
+  }
+  
+  .modal-box form .modal-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .modal-box form .btn {
+    padding: 8px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .modal-box form .btn:hover {
+    background-color: #4b5563;
+  }
+   */

@@ -1,0 +1,33 @@
+.row_2_service{
+    font-weight: bold;
+    background-color: #CAF4FF;
+    font-size: 15px;
+    color: black;
+}
+
+
+.row_3_service{
+    background-color: #FFF2D7;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.appraisal_row{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.appraisal_row_1{
+    font-weight: bold;
+    font-size: 18px;
+    color: red;
+}
+
+.total_row_service{
+    background-color: #FDE49E;
+    
+}
+
+.apprasial_eligible_service{
+    background-color: #CAF4FF;
+}

@@ -1,0 +1,91 @@
+{
+    "SalesCall": [
+      {
+        "CustomerName":"Jilson Joy",
+        "date": "2024-05-01",
+        "model": "g19",
+        "category": " A",
+        "district": "District 1",
+        "status": "Approved",
+        "contact":"89798798896",
+        "remarks":"addssf",
+        "finance":"6577",
+        "meeting":"2024-05-01",
+        "headSupport":"Yes"
+      },
+      {
+        "CustomerName":"fsfa",
+        "date": "2024-05-02",
+        "model": "g19",
+        "category": "B",
+        "district": "District 2",
+        "status": "Approved",
+        "contact":"29798798896",
+        "remarks":"addssf",
+        "finance":"345",
+        "meeting":"2024-05-02",
+        "headSupport":"Yes"
+      },{
+        "CustomerName":"weqwr",
+        "date": "2024-05-03",
+        "model": "g18",
+        "category": "C",
+        "district": "District 3",
+        "status": "Not Approved",
+        "contact":"39798798896",
+        "remarks":"addssf",
+        "finance":"65564",
+        "meeting":"2024-05-03",
+        "headSupport":"No"
+      },{
+        "CustomerName":"rwra",
+        "date": "2024-05-04",
+        "model": "g15",
+        "category": "D",
+        "district": "District 4",
+        "status": "Approved",
+        "contact":"198798896",
+        "remarks":"addssf",
+        "finance":"5444",
+        "meeting":"2024-05-04",
+        "headSupport":"Yes"
+      },{
+        "CustomerName":"wrss",
+        "date": "2024-05-05",
+        "model": "g14",
+        "category": "E",
+        "district": "District 5",
+        "status": "Not Approved",
+        "contact":"49798798896",
+        "remarks":"addssf",
+        "finance":"87787",
+        "meeting":"2024-05-05",
+        "headSupport":"Yes"
+      },{
+        "CustomerName":"ffsf",
+        "date": "2024-05-06",
+        "model": "g11",
+        "category": "F",
+        "district": "District 6",
+        "status": "Approved",
+        "contact":"69798798896",
+        "remarks":"addssf",
+        "finance":"400",
+        "meeting":"2024-05-06",
+        "headSupport":"No"
+      },{
+        "CustomerName":"gjgf",
+        "date": "2024-05-07",
+        "model": "g12",
+        "category": "G",
+        "district": "District 7",
+        "status": "Not Approved",
+        "contact":"69798798896",
+        "remarks":"addssf",
+        "finance":"8989",
+        "meeting":"2024-05-07",
+        "headSupport":"No"
+      }
+    ]
+  }
+  

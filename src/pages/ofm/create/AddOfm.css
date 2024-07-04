@@ -1,0 +1,60 @@
+.ofm_form{
+    margin: 16px;
+    border: 3px solid #1f2937;    
+    padding: 16px;
+    border-radius: 15px;
+   
+}
+
+.ofm_input_box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.ofm_1{
+    width: 300px; 
+}
+
+@media (min-width:768px) {
+    .ofm_form{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+
+.checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.checkbox-group .block {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.checkbox-group .block input[type="checkbox"] {
+    margin: 0;
+}
+
+
+.ofm_add_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.ofm_add_btn1{
+    background-color: #374151;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+}
+

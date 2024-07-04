@@ -1,0 +1,29 @@
+.oemAdd_header{
+    text-align: center;
+}
+.oemAdd_section{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.oemAdd_inputdiv{
+    display: flex;
+    flex-direction: column;
+}
+.oemAdd_inputdiv input{
+    border-radius: 9px;
+}
+.oemAdd_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.oemAdd_button button{
+    background-color: #374151;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-top: 20px;
+}
